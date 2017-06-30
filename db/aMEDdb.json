@@ -1,0 +1,315 @@
+{
+
+    "nombre-medicamentos" : 
+    {
+    "count": 1,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "nombre": "Panadol Allergy",
+            "presentaciones_url": "a"
+        },
+        {
+            "nombre": "Panadol",
+            "presentaciones_url": "a"
+        },
+        {
+            "nombre": "Panadol Antigripal Nf",
+            "presentaciones_url": "a"
+        },
+        {
+            "nombre": "Panadol Efervescente",
+            "presentaciones_url": "a"
+        },
+        {
+            "nombre": "Panadol Forte",
+            "presentaciones_url": "a"
+        },
+        {
+            "nombre": "Panadol Gripe",
+            "presentaciones_url": "a"
+        },
+        {
+            "nombre": "Panadol Para Niños",
+            "presentaciones_url": "a"
+        },
+        {
+            "nombre": "Panadol Para Niños Líquido",
+            "presentaciones_url": "a"
+        }
+    ]
+    },
+    "presentacion-medicamentos" :
+    {
+    "count": 1,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "nombre": "Panadol",
+            "ff_simpl": "Tableta",
+            "concentraciones": [
+                {
+                    "concentracion": "500 mg",
+                    "url": "/api/v1/medicamentos-establecimientos/?n=Panadol&p=Tableta&q=500 mg"
+                },
+                {
+                    "concentracion": "80 mg",
+                    "url": "/api/v1/medicamentos-establecimientos/?n=Panadol&p=Tableta&q=80 mg"
+                }
+            ]
+        }
+    ]
+    },
+
+    "medicamentos-establecimientos" :
+{
+    "count": 10,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "producto": {
+                "codigo": "0000034705",
+                "nombre": "Panadol Para Niños",
+                "concentracion": "250 mg/5 mL",
+                "forma_farmaceutica": "Suspensión Oral",
+                "ff_simpl": "Suspension",
+                "presentacion": "Frasco X 120 mL",
+                "registro_sanitario": "EE00153"
+            },
+            "precio": "9.15",
+            "establecimiento": {
+                "codigo": "0082327",
+                "nombre": "Botica Inkafarma",
+                "direccion": "Av. Brasil 1599  ",
+                "razon_social": "Eckerd Peru S.A.",
+                "telefono": null,
+                "cords": [
+                    -77.05353096127504,
+                    -12.075100109116256
+                ]
+            },
+            "feedback_url": "/api/v1/establecimiento-medicamentos/534225119/feedback/"
+        },
+        {
+            "producto": {
+                "codigo": "0000034705",
+                "nombre": "Panadol Para Niños",
+                "concentracion": "250 mg/5 mL",
+                "forma_farmaceutica": "Suspensión Oral",
+                "ff_simpl": "Suspension",
+                "presentacion": "Frasco X 120 mL",
+                "registro_sanitario": "EE00153"
+            },
+            "precio": "9.15",
+            "establecimiento": {
+                "codigo": "0082359",
+                "nombre": "Botica Inkafarma",
+                "direccion": "Calle Libertadores 594 - 596  ",
+                "razon_social": "Eckerd Peru S.A.",
+                "telefono": null,
+                "cords": [
+                    -77.0380525,
+                    -12.1058999
+                ]
+            },
+            "feedback_url": "/api/v1/establecimiento-medicamentos/534210230/feedback/"
+        },
+        {
+            "producto": {
+                "codigo": "0000034705",
+                "nombre": "Panadol Para Niños",
+                "concentracion": "250 mg/5 mL",
+                "forma_farmaceutica": "Suspensión Oral",
+                "ff_simpl": "Suspension",
+                "presentacion": "Frasco X 120 mL",
+                "registro_sanitario": "EE00153"
+            },
+            "precio": "9.15",
+            "establecimiento": {
+                "codigo": "0082319",
+                "nombre": "Botica Inkafarma",
+                "direccion": "Av. Javier Prado Oeste 999  ",
+                "razon_social": "Eckerd Peru S.A.",
+                "telefono": null,
+                "cords": [
+                    -77.05804981291294,
+                    -12.09342477070093
+                ]
+            },
+            "feedback_url": "/api/v1/establecimiento-medicamentos/534220163/feedback/"
+        },
+        {
+            "producto": {
+                "codigo": "0000034705",
+                "nombre": "Panadol Para Niños",
+                "concentracion": "250 mg/5 mL",
+                "forma_farmaceutica": "Suspensión Oral",
+                "ff_simpl": "Suspension",
+                "presentacion": "Frasco X 120 mL",
+                "registro_sanitario": "EE00153"
+            },
+            "precio": "9.15",
+            "establecimiento": {
+                "codigo": "0082338",
+                "nombre": "Botica Inkafarma",
+                "direccion": "Av.  Petit Thouars Nº 4986   ",
+                "razon_social": "Eckerd Peru S.A.",
+                "telefono": null,
+                "cords": [
+                    -77.0297813416,
+                    -12.1125296816
+                ]
+            },
+            "feedback_url": "/api/v1/establecimiento-medicamentos/534222641/feedback/"
+        },
+        {
+            "producto": {
+                "codigo": "0000034705",
+                "nombre": "Panadol Para Niños",
+                "concentracion": "250 mg/5 mL",
+                "forma_farmaceutica": "Suspensión Oral",
+                "ff_simpl": "Suspension",
+                "presentacion": "Frasco X 120 mL",
+                "registro_sanitario": "EE00153"
+            },
+            "precio": "9.15",
+            "establecimiento": {
+                "codigo": "0089596",
+                "nombre": "Botica Inkafarma",
+                "direccion": "Av. Samuel Alcazar 834  ",
+                "razon_social": "Eckerd Peru S.A.",
+                "telefono": null,
+                "cords": [
+                    -77.0331904,
+                    -12.0269518
+                ]
+            },
+            "feedback_url": "/api/v1/establecimiento-medicamentos/534197817/feedback/"
+        },
+        {
+            "producto": {
+                "codigo": "0000034705",
+                "nombre": "Panadol Para Niños",
+                "concentracion": "250 mg/5 mL",
+                "forma_farmaceutica": "Suspensión Oral",
+                "ff_simpl": "Suspension",
+                "presentacion": "Frasco X 120 mL",
+                "registro_sanitario": "EE00153"
+            },
+            "precio": "9.15",
+            "establecimiento": {
+                "codigo": "0018046",
+                "nombre": "Botica Inkafarma",
+                "direccion": "Av. Jose Antonio Pezet 1380  ",
+                "razon_social": "Eckerd Peru S.A.",
+                "telefono": null,
+                "cords": [
+                    -77.0526767,
+                    -12.1026951
+                ]
+            },
+            "feedback_url": "/api/v1/establecimiento-medicamentos/534168004/feedback/"
+        },
+        {
+            "producto": {
+                "codigo": "0000034705",
+                "nombre": "Panadol Para Niños",
+                "concentracion": "250 mg/5 mL",
+                "forma_farmaceutica": "Suspensión Oral",
+                "ff_simpl": "Suspension",
+                "presentacion": "Frasco X 120 mL",
+                "registro_sanitario": "EE00153"
+            },
+            "precio": "9.15",
+            "establecimiento": {
+                "codigo": "0018090",
+                "nombre": "Botica Inkafarma",
+                "direccion": "Jr. Cuzco 413  ",
+                "razon_social": "Eckerd Peru S.A.",
+                "telefono": "4260233",
+                "cords": [
+                    -77.0300854369998,
+                    -12.050886710333726
+                ]
+            },
+            "feedback_url": "/api/v1/establecimiento-medicamentos/534158064/feedback/"
+        },
+        {
+            "producto": {
+                "codigo": "0000034705",
+                "nombre": "Panadol Para Niños",
+                "concentracion": "250 mg/5 mL",
+                "forma_farmaceutica": "Suspensión Oral",
+                "ff_simpl": "Suspension",
+                "presentacion": "Frasco X 120 mL",
+                "registro_sanitario": "EE00153"
+            },
+            "precio": "9.15",
+            "establecimiento": {
+                "codigo": "0027374",
+                "nombre": "Botica Inkafarma",
+                "direccion": "Av. Alcazar 700  El Manzano",
+                "razon_social": "Eckerd Peru S.A.",
+                "telefono": "S/N",
+                "cords": [
+                    -77.0318266,
+                    -12.0281349
+                ]
+            },
+            "feedback_url": "/api/v1/establecimiento-medicamentos/534153094/feedback/"
+        },
+        {
+            "producto": {
+                "codigo": "0000034705",
+                "nombre": "Panadol Para Niños",
+                "concentracion": "250 mg/5 mL",
+                "forma_farmaceutica": "Suspensión Oral",
+                "ff_simpl": "Suspension",
+                "presentacion": "Frasco X 120 mL",
+                "registro_sanitario": "EE00153"
+            },
+            "precio": "9.15",
+            "establecimiento": {
+                "codigo": "0089605",
+                "nombre": "Botica Inkafarma",
+                "direccion": "Av. Garcilazo De La Vega 1980  ",
+                "razon_social": "Eckerd Peru S.A.",
+                "telefono": null,
+                "cords": [
+                    -77.0383644,
+                    -12.0558961
+                ]
+            },
+            "feedback_url": "/api/v1/establecimiento-medicamentos/534200302/feedback/"
+        },
+        {
+            "producto": {
+                "codigo": "0000034705",
+                "nombre": "Panadol Para Niños",
+                "concentracion": "250 mg/5 mL",
+                "forma_farmaceutica": "Suspensión Oral",
+                "ff_simpl": "Suspension",
+                "presentacion": "Frasco X 120 mL",
+                "registro_sanitario": "EE00153"
+            },
+            "precio": "9.15",
+            "establecimiento": {
+                "codigo": "0025898",
+                "nombre": "Botica Inkafarma",
+                "direccion": "Av. Palermo 478  ",
+                "razon_social": "Eckerd Peru S.A.",
+                "telefono": "426-0233",
+                "cords": [
+                    -77.0229979,
+                    -12.0801109
+                ]
+            },
+            "feedback_url": "/api/v1/establecimiento-medicamentos/534232572/feedback/"
+        }
+    ]
+}
+
+}

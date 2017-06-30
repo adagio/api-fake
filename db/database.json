@@ -1,0 +1,208 @@
+{
+  "customers": [
+    {
+      "name": "Nombre Apellido",
+      "gender": "male",
+      "email": "juan.perez@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Nombre Apellido",
+      "gender": "male",
+      "email": "juan.perez@gmail.com",
+      "id": 2
+    }
+  ],
+  "medicines": [
+    {
+      "name": "Panadol Allergy",
+      "ap": "Panadol",
+      "id": 1
+    },
+    {
+      "name": "Panadol",
+      "ap": "Panadol",
+      "id": 2
+    },
+    {
+      "name": "Panadol Antigripal Nf",
+      "ap": "Panadol",
+      "id": 3
+    },
+    {
+      "name": "Panadol Efervescente",
+      "ap": "Panadol",
+      "id": 4
+    },
+    {
+      "name": "Panadol Forte",
+      "ap": "Panadol",
+      "id": 5
+    },
+    {
+      "name": "Panadol Gripe",
+      "ap": "Panadol",
+      "id": 6
+    },
+    {
+      "name": "Panadol Para Niños",
+      "ap": "Panadol",
+      "id": 7
+    },
+    {
+      "name": "Panadol Para Niños Líquido",
+      "ap": "Panadol",
+      "id": 8
+    },
+    {
+      "name": "Aplicam Forte",
+      "ap": "Panadol",
+      "id": 9
+    },
+    {
+      "name": "Aproxol 1000",
+      "ap": "Panadol",
+      "id": 10
+    },
+    {
+      "name": "Doloacemifem",
+      "ap": "Panadol",
+      "id": 11
+    },
+    {
+      "name": "Doloacemifen",
+      "ap": "Panadol",
+      "id": 12
+    },
+    {
+      "name": "Dolo",
+      "ap": "Panadol",
+      "id": 13
+    },
+    {
+      "name": "Farmadol",
+      "ap": "Panadol",
+      "id": 14
+    },
+    {
+      "name": "F-Dol",
+      "ap": "Panadol",
+      "id": 15
+    },
+    {
+      "name": "Fieber Niños",
+      "ap": "Panadol",
+      "id": 16
+    },
+    {
+      "name": "Frenadol",
+      "ap": "Panadol",
+      "id": 17
+    },
+    {
+      "name": "Gesidol",
+      "ap": "Panadol",
+      "id": 18
+    },
+    {
+      "name": "Kitadol",
+      "ap": "Panadol",
+      "id": 19
+    },
+    {
+      "name": "Mafidol",
+      "ap": "Panadol",
+      "id": 20
+    },
+    {
+      "name": "Maxito",
+      "ap": "Panadol",
+      "id": 21
+    },
+    {
+      "name": "Mejorax",
+      "ap": "Panadol",
+      "id": 22
+    },
+    {
+      "name": "Mejorax Infantil",
+      "ap": "Panadol",
+      "id": 23
+    },
+    {
+      "name": "Doloflam",
+      "ap": "Doloflam",
+      "id": 24
+    },
+    {
+      "name": "Doloflam Extraforte",
+      "ap": "Doloflam",
+      "id": 25
+    },
+    {
+      "name": "Doloflam Total",
+      "ap": "Doloflam",
+      "id": 26
+    },
+    {
+      "name": "Adax",
+      "ap": "Doloflam",
+      "id": 27
+    },
+    {
+      "name": "Afebril",
+      "ap": "Doloflam",
+      "id": 28
+    },
+    {
+      "name": "Alfadol",
+      "ap": "Doloflam",
+      "id": 29
+    },
+    {
+      "name": "Banes",
+      "ap": "Doloflam",
+      "id": 30
+    },
+    {
+      "name": "Banes Forte",
+      "ap": "Doloflam",
+      "id": 31
+    },
+    {
+      "name": "D`Oladol",
+      "ap": "Doloflam",
+      "id": 32
+    },
+    {
+      "name": "Dolifamil",
+      "ap": "Doloflam",
+      "id": 33
+    },
+    {
+      "name": "Dolfarb",
+      "ap": "Doloflam",
+      "id": 34
+    },
+    {
+      "name": "Dolifeb",
+      "ap": "Doloflam",
+      "id": 35
+    },
+    {
+      "name": "Dolin",
+      "ap": "Doloflam",
+      "id": 36
+    },
+    {
+      "name": "Dolin Ba",
+      "ap": "Doloflam",
+      "id": 37
+    },
+    {
+      "name": "Dolobay",
+      "ap": "Doloflam",
+      "id": 38
+    }
+  ]
+}
